@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "oxxxo_x_o"
+        }, 
+        "key": {
+            "O": {
+                "item": "minecraft:wooden_hoe"
+            }, 
+            "X": {
+                "item": "minecraft:bow"
+            }
+        }, 
+        "pattern": [
+            "OXX", 
+            "XO ", 
+            "X O"
+        ], 
+        "result": {
+            "item": "minecraft:emerald"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

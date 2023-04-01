@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "x_o_xoo_x"
+        }, 
+        "key": {
+            "O": {
+                "item": "minecraft:wooden_hoe"
+            }, 
+            "X": {
+                "item": "minecraft:bow"
+            }
+        }, 
+        "pattern": [
+            "X O", 
+            " XO", 
+            "O X"
+        ], 
+        "result": {
+            "item": "minecraft:diamond"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
